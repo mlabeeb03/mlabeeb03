@@ -17,24 +17,9 @@
 </p>
 <br />
 
-<table width="100%">
-  <tr valign="top">
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+<h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/mlabeeb03">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlabeeb03&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mlabeeb03&limit=8&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
-    </td>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mlabeeb03">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mlabeeb03&limit=4&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
