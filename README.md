@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlabeeb)
 </div>
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs I Use</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,django,flask,go,c,js,mysql,postgres,mongo,graphql,elasticsearch,redis,htmx,git,docker,kubernetes,aws,linux,bash,blender&perline=10"  />
 </p>
